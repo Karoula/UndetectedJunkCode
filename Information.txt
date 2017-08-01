@@ -1,0 +1,4 @@
+Junk code is used to undetect any valve game hack (that you have the source to).
+I usually use junk code in premade hacks that was detected a while ago.
+Junk code is used in most ayyware pastes, but I can not support the selling of pasted cheats. Use this to create private ud cheats.
+I update this code every week.

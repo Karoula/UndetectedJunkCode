@@ -1,0 +1,26 @@
+void CMiscHacks::Junk()
+{
+	float pJunkcode = 5123598411453;
+	pJunkcode = 13222442;
+	if (pJunkcode = 17112425)
+		pJunkcode = 18321425;
+	pJunkcode = 1732124425;
+	pJunkcode = 1112978911;
+	if (pJunkcode = 39430534);
+	pJunkcode = 2304833943;
+	pJunkcode = 439073453;
+	if (pJunkcode = 1713325)
+		pJunkcode = 133335;
+	pJunkcode = 17323341;
+	pJunkcode = 43315651134;
+	if (pJunkcode = 3493411534);
+	pJunkcode = 234914911143;
+	pJunkcode = 49073945653;
+	if (pJunkcode = 173455625)
+		pJunkcode = 1211325543425;
+	pJunkcode = 134235565;
+	pJunkcode = 43255534;
+	if (pJunkcode = 3518853474);
+	pJunkcode = 279148949046;
+	pJunkcode = 4322310453;
+}
